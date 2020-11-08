@@ -1,0 +1,73 @@
+/* style for product size */
+
+.right-products {
+    margin-top: 30px;
+}
+
+.product_size {
+    padding: 5px;
+    width: 90px;
+    margin-top: -6px;
+}
+
+.nivoSlider img {
+    width: 100%;
+    height: 370px!important;
+}
+
+.nivo-main-image {
+    width: 100%!important;
+    height: 370px!important;
+}
+
+.bounceInLeft p,
+.zoomInUp span,
+.zoomInUp h3 {
+    color: #beb7b7;
+}
+
+.slide-text span,
+.slide-text h3 {
+    color: #d36f47;
+}
+
+
+/* style for brand-lint */
+
+.clearfix ul li {
+    float: none;
+    margin: 5px 0px 0px 15px;
+}
+
+.clearfix ul {
+    padding-bottom: 10px;
+}
+
+.clearfix input {
+    margin-right: 5px;
+}
+
+
+/* style for user login-form/registration & profile */
+
+.middel-top ul li ul li {
+    margin-left: 0px!important;
+}
+
+.login_form {
+    margin: -2% 0% 0% 25%;
+}
+
+.registration_area {
+    margin-top: -40px;
+    z-index: 0;
+}
+
+.registration_message {
+    margin: -7% 0% -1% 26%;
+    z-index: 1;
+}
+
+.user-name {
+    margin-left: -19px;
+}
